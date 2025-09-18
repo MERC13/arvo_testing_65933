@@ -15,7 +15,7 @@ chmod +x test65933.sh
 Run the script from the provided path:
 
 ```powershell
-bash -lc "cd /mnt/c/Users/jonah/Code/arvo_extracted_files && ./test65933.sh"
+bash ./test65933.sh
 ```
 
 ## What the script does
